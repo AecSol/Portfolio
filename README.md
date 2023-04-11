@@ -1,2 +1,2 @@
 # Portfolio
- Портфель домашних заданий по курсу JAVA и Selenium We Driver
+ Портфель домашних заданий и лаборатоных работ по курсу JAVA и Selenium Web Driver
